@@ -5907,3 +5907,95 @@ Sampler Limit: 16
 [2025.03.05-16.02.03:102][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2025.03.05-16.02.03:114][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
 [2025.03.05-16.02.03:127][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.586 ms (total: 9.43 sec)
+[2025.03.05-16.07.48:548][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7743.477051
+[2025.03.05-16.07.48:693][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-16.07.48:693][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7743.609375, Update Interval: 344.631500
+[2025.03.05-16.14.21:465][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8136.425293
+[2025.03.05-16.14.21:607][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-16.14.21:607][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8136.555664, Update Interval: 329.532166
+[2025.03.05-16.20.25:884][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8500.518555
+[2025.03.05-16.20.26:883][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-16.20.26:884][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8501.179688, Update Interval: 358.608368
+[2025.03.05-16.26.58:288][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8892.916016
+[2025.03.05-16.26.59:288][980]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.05-16.26.59:288][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8893.583008, Update Interval: 338.070618
+[2025.03.05-16.28.39:106][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.05-16.28.41:500][548]LogSlate: Window 'Save Content' being destroyed
+[2025.03.05-16.28.41:524][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.05-16.28.41:583][548]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLOCKOUT/5x5Grid] ([1] browsable assets)...
+[2025.03.05-16.28.41:583][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLOCKOUT/5x5Grid]
+[2025.03.05-16.28.41:593][548]LogSavePackage: Moving output files for package: /Game/BLOCKOUT/5x5Grid
+[2025.03.05-16.28.41:593][548]LogSavePackage: Moving '../../../../../../Users/htk/Documents/Unreal Projects/4A_ Malte_Lantow_Unreal/SoSe2025_Puzzlegame_htk/SoSe2025_Puzzlegame/Saved/5x5Grid1099164B4C348ADD17758AB3B1D3776C.tmp' to '../../../../../../Users/htk/Documents/Unreal Projects/4A_ Malte_Lantow_Unreal/SoSe2025_Puzzlegame_htk/SoSe2025_Puzzlegame/Content/BLOCKOUT/5x5Grid.uasset'
+[2025.03.05-16.28.41:608][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.068 ms (total: 9.52 sec)
+[2025.03.05-16.28.41:705][548]LogStall: Shutdown...
+[2025.03.05-16.28.41:705][548]LogStall: Shutdown complete.
+[2025.03.05-16.28.41:788][548]LogSlate: Window 'SoSe2025_Puzzlegame - Unreal Editor' being destroyed
+[2025.03.05-16.28.41:789][548]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2025.03.05-16.28.43:120][548]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.05-16.28.43:120][548]LogContentValidation: Enabled validators:
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.05-16.28.43:120][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.05-16.28.43:121][548]AssetCheck: /Game/BLOCKOUT/5x5Grid Validating asset
+[2025.03.05-16.28.43:123][548]Cmd: QUIT_EDITOR
+[2025.03.05-16.28.43:123][548]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.05-16.28.43:137][549]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.05-16.28.43:138][549]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.05-16.28.43:138][549]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.05-16.28.43:140][549]LogWorld: UWorld::CleanupWorld for L_SANDBOX, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:140][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:140][549]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/BLOCKOUT/Level/L_SANDBOX.L_SANDBOX
+[2025.03.05-16.28.43:161][549]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.05-16.28.43:168][549]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.05-16.28.43:176][549]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:177][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:178][549]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:178][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:178][549]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:178][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:179][549]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:179][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:179][549]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.05-16.28.43:179][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.05-16.28.43:185][549]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.05-16.28.43:194][549]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.05-16.28.43:195][549]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.05-16.28.43:195][549]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.05-16.28.43:283][549]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.05-16.28.43:283][549]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.05-16.28.43:283][549]LogAudio: Display: Audio Device unregistered from world 'L_SANDBOX'.
+[2025.03.05-16.28.43:283][549]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.05-16.28.43:283][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-16.28.43:290][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.05-16.28.43:301][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.05-16.28.43:301][549]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.05-16.28.43:305][549]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.05-16.28.43:305][549]LogExit: Preparing to exit.
+[2025.03.05-16.28.43:354][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.05-16.28.43:686][549]LogEditorDataStorage: Deinitializing
+[2025.03.05-16.28.43:864][549]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.05-16.28.43:973][549]LogExit: Editor shut down
+[2025.03.05-16.28.43:980][549]LogExit: Transaction tracking system shut down
+[2025.03.05-16.28.44:471][549]LogExit: Object subsystem successfully closed.
+[2025.03.05-16.28.44:585][549]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.05-16.28.45:440][549]LogMemoryProfiler: Shutdown
+[2025.03.05-16.28.45:441][549]LogNetworkingProfiler: Shutdown
+[2025.03.05-16.28.45:441][549]LoadingProfiler: Shutdown
+[2025.03.05-16.28.45:442][549]LogTimingProfiler: Shutdown
+[2025.03.05-16.28.45:948][549]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.05-16.28.45:949][549]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.05-16.28.45:949][549]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.05-16.28.45:952][549]RenderDocPlugin: plugin has been unloaded.
+[2025.03.05-16.28.45:989][549]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.05-16.28.45:989][549]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B097B1630-48D4-ADF4-8A8B-60A41EE3F6EC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=340fd8b440aa0645fb8bfa94684f3acb%7C22dd785396ef41a1ae0bab70d3e732f6%7C62b138e9-a8bd-45fb-82b0-d5a0357f4645&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.05-16.28.46:560][549]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.05-16.28.46:590][549]LogXGEController: Cleaning working directory: C:/Users/htk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.05-16.28.46:603][549]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.05-16.28.46:603][549]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.05-16.28.46:603][549]LogPakFile: Destroying PakPlatformFile
+[2025.03.05-16.28.46:941][549]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.05-16.28.46:990][549]LogExit: Exiting.
+[2025.03.05-16.28.47:033][549]Log file closed, 03/05/25 17:28:47
