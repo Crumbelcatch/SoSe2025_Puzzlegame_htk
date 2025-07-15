@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{624b98b9-4e97-4bde-bbea-9f6aceeedfff}">
+		<property name="name">
+			<value>CrashSoundParameter</value>
+		</property>
+		<relationship name="folder">
+			<destination>{25e8a3b3-ba5a-4169-bcad-4874be889b3c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{10faf0f6-1429-4e7f-9100-624069eb52b6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{10faf0f6-1429-4e7f-9100-624069eb52b6}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

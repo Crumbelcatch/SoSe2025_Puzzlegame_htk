@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{5b0aef5b-4aa4-4ef9-89e2-ead0a54a9751}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../SoSe2025_Puzzlegame/Content/FMod</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{bc70824d-ffed-4705-a1ab-02f7a43c21f3}</destination>
 		</relationship>

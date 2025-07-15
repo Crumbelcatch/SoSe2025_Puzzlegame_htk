@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{26fb444c-61d6-458f-a73a-ffc3be8d73cc}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../SoSe2025_Puzzlegame/Content/FMod</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{8834c83f-d6c8-40d5-942c-54775213bea7}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{230c2363-1ab5-40a5-a383-1752b76f0554}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{c7794cc3-7e04-4064-994a-cad43811a33b}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{25e8a3b3-ba5a-4169-bcad-4874be889b3c}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{c00daa6e-ac43-4a8a-ba8a-0f7a94117f47}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{448f4f82-ad33-4365-b87b-7d52cdfc6173}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{f92ed9b2-050e-446b-8421-b6431c51d2b1}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{c1251847-d661-4001-867a-8f976ea6fb38}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{7e6b143e-b39b-4003-870a-0636646d56ef}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{80faea04-094b-4fc4-ac82-061feef2993a}</destination>
+		</relationship>
+	</object>
+</objects>

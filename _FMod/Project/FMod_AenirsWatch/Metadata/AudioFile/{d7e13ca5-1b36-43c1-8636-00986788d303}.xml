@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d7e13ca5-1b36-43c1-8636-00986788d303}">
+		<property name="assetPath">
+			<value>SFX_Footstep_Concrete_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.19002267573696144</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f92ed9b2-050e-446b-8421-b6431c51d2b1}</destination>
+		</relationship>
+	</object>
+</objects>
