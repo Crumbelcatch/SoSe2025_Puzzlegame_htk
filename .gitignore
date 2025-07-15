@@ -46,11 +46,11 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+SoSe2025_Puzzlegame/Binaries/*
+SoSe2025_Puzzlegame/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+SoSe2025_Puzzlegame/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
