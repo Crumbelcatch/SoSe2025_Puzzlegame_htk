@@ -3,3 +3,4 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
 \[SoSe2025_Puzzlegame/Binaries/Win64/SoSe2025_Puzzlegame-Win64-Shipping.pdb\] filter=lfs diff=lfs merge=lfs -text
 \[SoSe2025_Puzzlegame/Binaries/Win64/SoSe2025_Puzzlegame.pdb\] filter=lfs diff=lfs merge=lfs -text
+\[SoSe2025_Puzzlegame/Plugins/FMODStudioNiagara/Binaries/Win64/UnrealEditor-FMODStudioNiagara.pdb\] filter=lfs diff=lfs merge=lfs -text
