@@ -46,8 +46,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-SoSe2025_Puzzlegame/Binaries/*
-SoSe2025_Puzzlegame/Plugins/*/Binaries/*
+*/Binaries/*
+*/Plugins/*/Binaries/*
 
 # Builds
 SoSe2025_Puzzlegame/Build/*
@@ -74,3 +74,11 @@ SoSe2025_Puzzlegame/Plugins/*/Intermediate/*
 SoSe2025_Puzzlegame/DerivedDataCache/*
 
 SoSe2025_Puzzlegame/Intermediate/
+
+
+
+
+
+SoSe2025_Puzzlegame/Content/__ExternalActors__/
+
+SoSe2025_Puzzlegame/Content/__ExternalObjects__/
